@@ -1,79 +1,35 @@
-English
+# README
 
-🚀 About the Script
+## English
 
-This FiveM script is designed help you to make your server gamplay perfect. Whether you're looking to provide your players with a more immersive experience or simplify server management, this script has you covered!
+### 🚀 About Aqua Development
+Welcome to **Aqua Development**! We specialize in creating high-quality **FiveM scripts** to elevate your server's experience. Whether you're running a roleplay server or a custom game mode, our scripts are tailored to meet your needs.
 
-✨ Features
+### ✨ Why Choose Us?
+- **High-Quality Scripts**: Each script is crafted with performance and reliability in mind.
+- **Great Support**: Our team is always here to assist you and ensure smooth integration.
 
-Feature 1: No bugs
+### 📥 How to Use
+Our scripts are designed to be easily integrated into your FiveM server. They serve as tools to enhance your gameplay and simplify server management. 
 
-Feature 2: No Problems with exports
+### 📞 Contact & Support
+If you need assistance or want to learn more, join our Discord community:
+[https://discord.gg/yDwjBKu8tM](https://discord.gg/yDwjBKu8tM)
 
-Feature 3: No problems or false bans with the anticheat
+---
 
-📥 Installation
+## Deutsch
 
-Place the folder into your resources directory.
+### 🚀 Über Aqua Development
+Willkommen bei **Aqua Development**! Wir sind spezialisiert auf die Erstellung hochwertiger **FiveM-Scripts**, die das Spielerlebnis auf deinem Server verbessern. Egal, ob du einen Roleplay-Server oder einen individuellen Spielmodus betreibst – unsere Scripts sind genau auf deine Anforderungen zugeschnitten.
 
-Add ensure Aqua_Safezone to your server.cfg file.
+### ✨ Warum wir?
+- **Hochwertige Scripts**: Unsere Scripts sind leistungsstark und zuverlässig.
+- **Hervorragender Support**: Wir sind immer da, um dir bei der Integration zu helfen.
 
-Restart your server and enjoy!
+### 📥 Nutzung
+Unsere Scripts sind so gestaltet, dass sie einfach auf deinem FiveM-Server genutzt werden können. Sie dienen als Werkzeuge, um dein Gameplay zu verbessern und das Servermanagement zu erleichtern.
 
-⚙️ Configuration
-
-Open the config.lua file to customize the script to fit your server's needs. Options include:
-
-Setting 1: Godmode true/false
-
-Setting 2: you can change the notify text
-
-Setting 3: you can change the keys the are block in the safezone
-
-🤝 Contribution
-
-Feel free to contribute to the project by submitting a pull request or reporting issues. Together, we can make it even better!
-
-📞 Support
-
-If you encounter any issues, please contact us at https://discord.gg/yDwjBKu8tM.
-
-Deutsch
-
-🚀 Über das Script
-
-Dieses FiveM Script wurde entwickelt, um vorwiegend Crimelife Servern ein gutes erlebniss mit unserer Safezone zu verschaffen
-
-✨ Funktionen
-
-Funktion 1: Wenig leitungs Verbrauch
-
-Funktion 2: Wenig bis keine bugs
-
-Funktion 3: Keine Fehlbans bei dem Anticheat
-
-📥 Installation
-
-Lege den Ordner in deinem resources-Verzeichnis ab.
-
-Füge ensure Aqua_Safezone zu deiner server.cfg-Datei hinzu.
-
-Starte deinen Server neu und genieße die Features!
-
-⚙️ Konfiguration
-
-Öffne die Datei config.lua, um das Script an die Bedürfnisse deines Servers anzupassen. Anpassbare Optionen:
-
-Setting 1: Godmode true/false
-
-Setting 2: Die Benachrichtungs Texte können in der Config verändert werden
-
-Setting 3: Du kannst andere Tasten in der Safezone Blockieren 
-
-🤝 Beitrag
-
-Du kannst gerne zu diesem Projekt beitragen, indem du einen Pull Request einreichst oder Probleme meldest. Gemeinsam können wir es noch besser machen!
-
-📞 Support
-
-Falls du Probleme hast, kontaktiere uns unter https://discord.gg/yDwjBKu8tM.
+### 📞 Kontakt & Support
+Falls du Hilfe brauchst oder mehr erfahren möchtest, tritt unserer Discord-Community bei:
+[https://discord.gg/yDwjBKu8tM](https://discord.gg/yDwjBKu8tM)
